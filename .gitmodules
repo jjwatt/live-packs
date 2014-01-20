@@ -1,0 +1,3 @@
+[submodule "pretty-symbols/lib/pretty-symbols"]
+	path = pretty-symbols/lib/pretty-symbols
+	url = https://github.com/drothlis/pretty-symbols.git
