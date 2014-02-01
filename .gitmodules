@@ -1,3 +1,6 @@
 [submodule "pretty-symbols/lib/pretty-symbols"]
 	path = pretty-symbols/lib/pretty-symbols
 	url = https://github.com/drothlis/pretty-symbols.git
+[submodule "flycheck/lib/flycheck"]
+	path = flycheck/lib/flycheck
+	url = https://github.com/flycheck/flycheck.git
